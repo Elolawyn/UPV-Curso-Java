@@ -1,4 +1,4 @@
-package Leccion4;
+package org.example.ejercicioComplejo;
 
 class Complejo {
 	private double real;
