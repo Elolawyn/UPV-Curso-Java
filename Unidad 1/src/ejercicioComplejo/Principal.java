@@ -1,4 +1,4 @@
-package org.example.ejercicioComplejo;
+package ejercicioComplejo;
 
 class Principal {
     public static void main(String[] main) {

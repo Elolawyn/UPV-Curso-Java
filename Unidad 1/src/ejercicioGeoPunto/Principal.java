@@ -1,4 +1,4 @@
-package org.example.ejercicioGeoPunto;
+package ejercicioGeoPunto;
 
 class Principal {
     public static void main(String[] main) {

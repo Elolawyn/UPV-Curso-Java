@@ -1,4 +1,4 @@
-package org.example.ejercicioGeoPunto;
+package ejercicioGeoPunto;
 
 class GeoPunto {
 	private double latitud;
